@@ -1,0 +1,6 @@
+{
+  "name": "G.A Family Restaurant Sialkot",
+  "description": "Experience authentic Desi Karahi, live charcoal BBQ, and memorable family dawat in Kamanwala, Sialkot.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
